@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I'm Kartike</h1>
-<h3 align="center">Associate Data Scientist at Blenheim Chalcot India with expertise in Prompt Engineering, Generative AI, and Machine Learning models. Passionate about Data Science, with strong skills in Python programming, Machine Learning, and Statistics.</h3>
+<h3 align="center">Associate Data Scientist at Blenheim Chalcot India, having worked on Prompt Engineering, Generative AI, and Machine Learning models. Passionate about Data Science, with strong skills in Python programming, Machine Learning, and Statistics.</h3>
 
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
 
